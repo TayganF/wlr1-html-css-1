@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+.section-title{
+    background-color: navajowhite;
+    font-size: 30px;
+    text-align: center;
+    width: 50px;
+
+}
+
+#more-important{
+    background-color: red;
+    font-size: 50px;
+}
+
+
+#lorem-article{
+
+}
